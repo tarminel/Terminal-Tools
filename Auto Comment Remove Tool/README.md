@@ -35,7 +35,7 @@ node run_v2.cjs index.js design.js utils.js style.css
 **Before:**
 ```js
 // This is a comment
-const name = "tojack"; // inline comment
+const name = "tarminel"; // inline comment
 
 /*
   Multi-line comment
@@ -47,7 +47,7 @@ function greet(user) {
 
 **After:**
 ```js
-const name = "tojack";
+const name = "tarminel";
 
 function greet(user) {
   return "Hello " + user;
