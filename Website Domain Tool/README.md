@@ -37,15 +37,10 @@ A powerful, zero-dependency Node.js domain reconnaissance tool for authorized pe
 
 ```bash
 git clone https://github.com/tarminel/Terminal-Tools/tree/main/Website%20Domain%20Tool
-```
 
-No `npm install` needed.
-
-## Usage
-
-```bash
 node WDT_V2.js <domain>
 ```
+•• no `npm install` needed
 
 **Examples:**
 
@@ -96,7 +91,3 @@ Falls back to `whois.nic.<tld>` for unlisted TLDs.
 ## Legal Notice
 
 This tool is intended for **authorized security testing only** — bug bounty programs, penetration tests with written permission, or your own infrastructure. Scanning domains without permission may be illegal in your jurisdiction.
-
-## Part of tojack toolkit
-
-WDT is part of the personal security toolkit **tojack** — a collection of custom-built recon and exploitation tools for authorized web application penetration testing.
