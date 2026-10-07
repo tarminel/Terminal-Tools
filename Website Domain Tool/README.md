@@ -36,9 +36,7 @@ A powerful, zero-dependency Node.js domain reconnaissance tool for authorized pe
 ## Installation
 
 ```bash
-git clone https://github.com/youruser/wdt.git
-cd wdt
-chmod +x WDT_V2.js
+git clone https://github.com/tarminel/Terminal-Tools/tree/main/Website%20Domain%20Tool
 ```
 
 No `npm install` needed.
@@ -53,8 +51,8 @@ node WDT_V2.js <domain>
 
 ```bash
 node WDT_V2.js example.com
-node WDT_V2.js hackerone.com
-node WDT_V2.js target.bugbounty.com
+node WDT_V2.js namecheap.com
+node WDT_V2.js google.com
 ```
 
 At the end of the scan, you'll be prompted to save a full JSON report:
